@@ -1,5 +1,7 @@
 # empty-project
 
+https://sarahbuisson.github.io/simple-website-boilerplate-sample/index.html
+
 Empty project.
 
 ## Building and running on localhost
